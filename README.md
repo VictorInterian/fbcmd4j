@@ -12,8 +12,8 @@ TODO: Agregar instrucciones de uso
 
 ## Créditos
 
-TODO: Agregar autor(es)
+TODO: Victor Hugo Cavazos Interián  2838808
 
 ## Licencia
 
-TODO: Agregar Licencia
+TODO: MIT
