@@ -5,7 +5,7 @@ Facebook CLI client. For educational purposes only.
 
 ## Instalación
 
-TODO: Agregar proceso de instalación.
+TODO: Agregado en archivo .doc
 
 ## Uso
 
